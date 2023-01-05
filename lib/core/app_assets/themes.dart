@@ -1,0 +1,3 @@
+class AppThemes {
+  const AppThemes();
+}
