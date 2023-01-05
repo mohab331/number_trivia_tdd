@@ -1,4 +1,4 @@
-# test_driven
+# number trivia app
 
 Flutter project(number_trivia app) of one screen to apply following concepts
 
