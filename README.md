@@ -27,7 +27,7 @@ The following concepts and packages have been applied in this project:
 To get started with the Number Trivia App, follow these steps:
 
 1. Clone this repository to your local machine using:
-   git clone https://github.com/mohab331/number_trivia_app.git
+   git clone https://github.com/mohab331/number_trivia_tdd.git
 
 2. Ensure you have Flutter installed. If not, refer to the official [Flutter installation guide](https://flutter.dev/docs/get-started/install) to set up Flutter on your system.
 
